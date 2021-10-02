@@ -5,6 +5,8 @@ A web application, using the Django REST framework to  provide REST APIs with CR
 Streamlit FE + Django connected to Postgres and Pgadmin which will run as docker containers
 ## to run:
 Install python and docker
+
+
 ```clone the repo```
 ```run pip install -r requirements.txt```
 ```docker-compose up``` To run Postgres and Pgadmin as docker containers
