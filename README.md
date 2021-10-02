@@ -64,8 +64,6 @@ Django api page will open in http://127.0.0.1:8000/api/car/
 
 ![apipage](./images/djpic1.PNG)
 
-```run pip install -r requirements.txt```
-
 
 
 ## To run FE
