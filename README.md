@@ -1,7 +1,18 @@
 # Django CRUD REST API APP
 A web application, using the Django REST framework to  provide REST APIs with CRUD principles.
 
-## Method 1:
+## Method A:
+Django,Django REST framework and database Postgres all in docker containers
+## to run:
+Install python, docker and docker compose
+
+Unzip the Folder, go to dir that contain 'docker-compose.yaml'
+
+
+```run docker-compose up```
+![rest](./images/djpic3.PNG)
+
+## Method B:
 Streamlit FE + Django connected to Postgres and Pgadmin which will run as docker containers
 ## to run:
 Install python and docker
