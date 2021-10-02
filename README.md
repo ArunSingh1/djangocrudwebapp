@@ -8,10 +8,22 @@ Install python and docker
 
 
 ```clone the repo```
+
+
 ```run pip install -r requirements.txt```
-```docker-compose up``` To run Postgres and Pgadmin as docker containers
+
+
+```docker-compose up``` 
+
+To run Postgres and Pgadmin as docker containers
+
+
 Pgadmin will open in http://127.0.0.1:5051/
+
+
 To Login enter following crends and create a connection,
+
+
 ```email - arun@gmail.com``` 
 ```pass - root```
 To create connction - go to Add server
